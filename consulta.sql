@@ -1,0 +1,1 @@
+select idevento, count(*) from evento e, participanteevento pe where e.idevento = pe.idevento group by e.idevento
