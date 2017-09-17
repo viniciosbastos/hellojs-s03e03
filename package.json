@@ -9,6 +9,7 @@
   "author": "viniciosbastos",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.16.2",
     "knex": "^0.13.0",
     "sqlite3": "^3.1.11"
   }
